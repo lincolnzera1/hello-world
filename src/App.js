@@ -8,7 +8,7 @@ function App() {
       <h2>Boa noite a todos</h2>
       
       <table>
-        <caption>Professo da Tiimi</caption>
+        <caption>Proguesso da Tiimi</caption>
         <tbody>
           <tr>
             <td>Italo</td>

@@ -28,13 +28,19 @@
   color: #61dafb;
 }
 
-h2{
-  color: red;
+h2, h1{
+  color: black;
+  font-size: 40px;
+}
+body{
+  background-image: url(modulo3-imagens/wallpaper001.jpg);
 }
 table{
   border: 3px solid black;
   border-collapse: collapse;
   padding: 10px;
+  background-color: lightgreen;
+  margin: auto;
 }
 caption{
   background-color: lightgray;
